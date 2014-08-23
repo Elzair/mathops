@@ -1,6 +1,6 @@
 # mathops
 
-This module contains functions that implement the basic operators of Javascript: the mathematical operators (**+**, **-**, etc.), the arithmetic operators (**++**, **--**, etc.), the bitwise operators (**^**, **~**, etc.), the logical operators (**&&**, **||**, etc.), and the comparison operators (**>**, **<**, etc.). It is similar to the [operator](https://docs.python.org/2/library/operator.html) library from Python.
+This module contains functions that implement the basic operators of Javascript: the mathematical operators (+, -, ...), the arithmetic operators (++, --, ...), the bitwise operators (^, ~, ...), the logical operators (&&, ||, ...), and the comparison operators (>, <, ...). It is similar to the [operator](https://docs.python.org/2/library/operator.html) library from Python.
 
 ## Installation
 
@@ -52,7 +52,7 @@ This is a list of all the functions supported by mathops and their base operator
 * **lor(x, y)**: "x || y"
 * **lnot(x)**: "!x"
 
-### Comparsison Operators
+### Comparison Operators
 
 * **eq(x, y)**: "x == y"
 * **neq(x, y)**: "x != y"
