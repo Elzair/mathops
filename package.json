@@ -1,0 +1,24 @@
+{
+  "name": "mathops",
+  "version": "0.1.0",
+  "description": "Contains functions implementing basic operators of Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Elzair/mathops.git"
+  },
+  "keywords": [
+    "math",
+    "operators",
+    "functionalprogramming"
+  ],
+  "author": "Philip Woods",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elzair/mathops/issues"
+  },
+  "homepage": "https://github.com/Elzair/mathops"
+}
