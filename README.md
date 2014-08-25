@@ -6,7 +6,7 @@ This module contains functions that implement the basic operators of Javascript:
 
 To install **mathops** into your project, first `cd` to your project directory; then type the following.
 
-    npm install mathops --save-dev
+    npm install mathops --save
 
 ## Use
 
@@ -62,3 +62,9 @@ This is a list of all the functions supported by mathops and their base operator
 * **ge(x, y)**: "x >= y"
 * **lt(x, y)**: "x < y"
 * **le(x, y)**: "x <= y"
+
+### Testing
+
+To run the included unit tests, type the following command.
+
+    npm test
